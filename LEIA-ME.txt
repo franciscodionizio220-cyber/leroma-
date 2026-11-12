@@ -1,12 +1,13 @@
-HOTEL LERROMA — COMO ABRIR
+HOTEL LEROMA — TESTAR O SITE
 
-1. Extraia TODO o ZIP para uma pasta.
-2. Abra o arquivo index.html desta pasta no Google Chrome.
-3. Mantenha a pasta images ao lado do index.html.
+Abra index.html nesta pasta no Chrome. Não é necessário instalar nada.
+Mantenha a pasta images junto do index.html. WhatsApp, Maps e Waze precisam de internet.
 
-Não precisa instalar Node ou iniciar servidor para esta versão.
-WhatsApp e mapa precisam de internet.
+As nove fotografias originais enviadas estão em uso no site. A imagem horizontal da recepção está na abertura; as três fotos principais dos quartos estão nos cards; as outras cinco estão na galeria Sobre.
 
-O código-fonte para GitHub/Vercel está em projeto-react.
-Leia projeto-react/README.md para desenvolvimento e publicação.
-As fotos foram extraídas dos prints por autorização do usuário; a resolução é limitada.
+O nome da pasta é Hotel Leroma, conforme solicitado. A marca Hotel Lerroma e os contatos oficiais foram mantidos conforme as referências.
+
+Código-fonte: projeto-react. Para desenvolvimento: npm install e npm run dev.
+Para reconstruir a entrega: npm run build. O build também atualiza o index.html pronto da pasta principal.
+Para Vercel: importe projeto-react, use Vite, comando npm run build e saída dist.
+Confirme preços, avaliações, categorias/camas e serviços antes de publicar. A foto usada no card individual acompanha a referência visual, mas mostra cama de casal: confirme a categoria com o hotel.
